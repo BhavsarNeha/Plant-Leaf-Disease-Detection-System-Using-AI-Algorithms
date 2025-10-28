@@ -28,6 +28,7 @@ Plant-Leaf-Disease-Detection-System-Using-AI-Algorithms/
 ---
 ![Uploading image.png…]()
 
+
 ## ⚙️ Installation
 
 ### Step 1: Clone the Repository
