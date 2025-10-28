@@ -25,9 +25,6 @@ Plant-Leaf-Disease-Detection-System-Using-AI-Algorithms/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 ![Uploading image.png…]()
 
